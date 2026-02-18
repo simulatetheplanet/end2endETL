@@ -1,5 +1,3 @@
-work in progress:
-
 requests
 pandas
 duckdb
