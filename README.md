@@ -1,4 +1,5 @@
 NBA End-to-End ETL Pipeline
+
 Project Overview
 
 This project implements an end-to-end data engineering pipeline that ingests live NBA game data from a public API, stores immutable raw snapshots, transforms the data into structured tables, and loads it into an analytical warehouse.
