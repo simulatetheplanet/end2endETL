@@ -2,3 +2,8 @@ requests
 pandas
 duckdb
 pyarrow
+json
+os
+datetime
+time
+glob
